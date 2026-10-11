@@ -1,7 +1,6 @@
 from pathlib import Path
 from app.agents.repository.detectors import Detector
 from app.agents.repository.models import PackageManager
-#gfkhj
 
 class PackageManagerDetector(Detector):
     PACKAGE_MANAGERS = {
