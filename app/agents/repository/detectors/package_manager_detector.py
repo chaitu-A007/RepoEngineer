@@ -42,4 +42,4 @@ class PackageManagerDetector(Detector):
                     )
                 )
 
-        return package_managers
+        return package_managers# This is a trial comment
